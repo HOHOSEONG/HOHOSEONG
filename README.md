@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hosung
+# 👋 Hi, I'm Hoseong
 
 ## 🚀 AIaaS / AI Platform Engineer
 
