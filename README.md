@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Hosung
 
-<!--
-**HOHOSEONG/HOHOSEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AIaaS / AI Platform Engineer
 
-Here are some ideas to get you started:
+I build AI models and deploy them as scalable services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+### AI / ML
+- PyTorch
+- LSTM / CNN
+- Model Quantization
+- ONNX
+
+### Backend
+- FastAPI
+- REST API
+- Logging System
+
+### DevOps
+- Docker
+- AWS EC2
+- GitHub Actions
+
+### System
+- C / C++
+- Linux
+- fork / exec / pipe
+- Process Management
+
+---
+
+## 📌 Projects
+
+- AI Model Serving Platform
+- MLOps Automation Pipeline
+- Linux Task Manager
+- Sports Motion Analysis AI
+
+---
+
+## 📫 Contact
+
+- Email: hoho990312@naver.com
